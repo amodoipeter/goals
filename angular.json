@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "goals": {
+    "Goals": {
       "projectType": "application",
       "schematics": {},
       "root": "",
